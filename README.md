@@ -22,7 +22,7 @@ This repository is a **research-driven roadmap created by Karthik** to explore e
 Focus areas include:
 
 * 🌍 Big Tech Engineering
-* 💰 Quantitative Trading & HFT
+* 💰 Quant & HFT
 * 🤖 Artificial Intelligence
 * ⛓ Blockchain & Web3 Infrastructure
 * ⚙️ Distributed Systems
