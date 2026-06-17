@@ -6,13 +6,6 @@
 
 Big Tech • Quant/HFT • AI • Distributed Systems
 
-![Stars](https://img.shields.io/github/stars/DsrKarthiKeya/Engineering-Career-Roadmap?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/DsrKarthiKeya/Engineering-Career-Roadmap?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/DsrKarthiKeya/Engineering-Career-Roadmap?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/DsrKarthiKeya/Engineering-Career-Roadmap?style=for-the-badge)
-
-</div>
-
 ---
 
 ## 📖 Overview
