@@ -14,7 +14,7 @@ This repository is a **research-driven roadmap created by Karthik** to explore e
 
 Focus areas include:
 
-* 🌍 Big Tech Engineering
+* 🌍 Big Tech Engineerings
 * 💰 Quant & HFT
 * 🤖 Artificial Intelligence
 * ⛓ Blockchain & Web3 Infrastructure
